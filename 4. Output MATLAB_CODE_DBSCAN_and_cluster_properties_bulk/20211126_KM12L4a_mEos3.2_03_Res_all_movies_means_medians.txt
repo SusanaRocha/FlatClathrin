@@ -1,0 +1,3 @@
+Row,area_mean,area_median,density_mean,density_median,ecc_mean,ecc_median
+all loc,0.06120825,0.01850031,3377.072,3121.43,0.6866974,0.7136624
+>50,0.1057226,0.04375288,3228.05,3030.01,0.7030097,0.7288468
