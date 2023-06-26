@@ -7,7 +7,7 @@ This document contains MATLAB code for <br>
 <br>
 <h2> MATLAB_CODE_Localizations_bulk </h2>
 <h3>Input </h3><br>
-•	.HIS files from single-molecule PALM-TIRF experiment. For one cell, two movies of each 5000 frames are imaged. The two movies have to have the same core name, followed by _mov1 or _mov2 for the analysis to work. Example: 20211126_KM12L4a_mEos3.2_03_mov1.HIS and 20211126_KM12L4a_mEos3.2_03_mov2.HIS (core name = 20211126_KM12L4a_mEos3.2_03) <br>
+•	.HIS files from single-molecule PALM-TIRF experiment. For one cell, two movies of each 5000 frames are imaged. The two movies have to have the same core name, followed by _mov1 or _mov2 for the analysis to work. Example: 20211126_KM12L4a_mEos3.2_03_mov1.HIS and 20211126_KM12L4a_mEos3.2_03_mov2.HIS (core name = 20211126_KM12L4a_mEos3.2_03) - <i>data can be supplied upon request </i> <br>
 •	Localizer function (Dedecker et al. doi:10.1117/1.JBO.17.12. For download and installation, see: https://bitbucket.org/pdedecker/localizer/src/master/ ) <br>
 <h3>Important code aspects </h3><br>
 •	Bulk analysis for .HIS files <br>
